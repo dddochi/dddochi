@@ -1,4 +1,4 @@
-### Welcome to dddochi's github
+### Welcome to dddochi's github 🙂
 
 #### Skills
 
