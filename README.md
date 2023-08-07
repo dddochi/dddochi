@@ -1,6 +1,6 @@
-Hello I'm front-end developer
+#Welcome to dddochi's github!
 
-Skills
+#Skills🥕
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 
 
