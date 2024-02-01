@@ -1,5 +1,5 @@
 <div align="center"> 
-#### 🙆‍♀️ dddochi's github
+🙆‍♀️ dddochi's github
  <br/>
 #### Main Skills
  <br/>
